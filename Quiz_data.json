@@ -1,0 +1,20 @@
+{
+  "quiz_name": "The General Knowledge Quiz",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "What is the capital of France?",
+      "answer": "paris"
+    },
+    {
+      "id": 2,
+      "prompt": "What is the largest planet in our solar system?",
+      "answer": "jupiter"
+    },
+    {
+      "id": 3,
+      "prompt": "What programming language is this quiz written in?",
+      "answer": "python"
+    }
+  ]
+}
